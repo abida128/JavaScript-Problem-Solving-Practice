@@ -1,0 +1,30 @@
+body{
+    background: cornflowerblue;
+    align-items: center;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-top: 200px;
+   
+
+}
+button{
+    border-radius: 2px;
+    box-shadow: 1px 1px 2px 1px lightblue;
+    padding: 10px 4em;
+    margin-left: 44%;
+    background: darkgrey;
+}
+input{
+    border-radius: 2px;
+    box-shadow: 1px 1px 2px 1px lightblue;
+    padding: 10px 4em;
+    margin: 10px;
+    margin-left: 40%;
+    background: cyan;
+}
