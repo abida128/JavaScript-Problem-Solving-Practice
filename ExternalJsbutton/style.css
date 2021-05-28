@@ -1,0 +1,30 @@
+button{
+    
+    padding: 10px  3em;
+    font-size: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    box-shadow: 1px 1px 1px 1px #333;
+    margin-left: 45%;
+    
+
+    
+    
+
+}
+button:hover{
+    background: rosybrown;
+    color: sienna;
+}
+.red{
+    background: red;
+}
+.blue{
+    background:lightblue;
+}
+.green{
+    background:green;
+}
