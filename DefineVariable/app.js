@@ -25,8 +25,6 @@
  // 3. Third task
 
  //  let me check Tech-Krao quizes and Tasks 
-
-
  
 
  let isQuizPass=true;
