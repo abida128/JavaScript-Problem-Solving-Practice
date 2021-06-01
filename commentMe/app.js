@@ -13,7 +13,7 @@
 */
 
 
-// Create/Declaration  Function
+// 1. Create/Declaration  Function
 
 function sum(x , y){
     
@@ -26,3 +26,13 @@ function sum(x , y){
 sum(187,315);
 sum(2.25,3);
 sum(4650,9321);
+
+
+// 2. Example #2
+function  addingNumbers(num1,num2){
+
+    let add = num1 + num2;
+    return add;
+
+
+}
