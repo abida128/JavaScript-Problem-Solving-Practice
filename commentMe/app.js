@@ -25,7 +25,7 @@ function sum(x , y){
 // Calling Function
 sum(187,315);
 sum(2.25,3);
-sum(4650,9321);
+sum(12,34);
 
 
 // 2. Example #2
